@@ -84,8 +84,7 @@
 
 ### 🧾 Evidence
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="/doc/Workplace.png" alt="Workplace Etiquette Screenshot" width="450"/>
-  <img src="/doc/Code.png" alt="Code of Conduct Screenshot" width="450"/>
+  <img src="https://github.com/TrynaGITEducated/TrynaGITEducated/blob/main/we.png" width="450"/>
 </div>
 
 ### 💭 Reflection (STAR)
