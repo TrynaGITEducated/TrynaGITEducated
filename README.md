@@ -40,7 +40,7 @@
 ## 💬 2. INTERVIEW SKILLS
 
 ### 🧾 Evidence
-![Interview Skills Screenshot](/doc/InterviewSkills.png)
+![Interview Skills Screenshot](https://github.com/TrynaGITEducated/TrynaGITEducated/blob/main/is1.png)
 
 ### 💭 Reflection (STAR)
 **S:**  As part of the module course material; aimed at interview preparation, I enrolled in the Interview skills course.
@@ -55,7 +55,7 @@
 
 ### 🧾 Evidence
 ![Mock Interview Screenshot](/doc/BusinessC2.png)
-[▶️ Watch Mock Video](https://github.com/JA-Karoles222008237/Digital-Portfolio-PRP3/raw/main/doc/Mock%20video%20222008237.mp4)
+[▶️ Watch Mock Video👉]()
 
 ### 💭 Reflection (STAR)
 **S:** A simulation of a real-world job interview was conducted earlier on in the academic year as part of an assessment. This simukation was done as a mock-interview to exhibit and display the Interview Skills learnt.
