@@ -25,7 +25,7 @@
 ## 📢 1. BUSINESS COMMUNICATION
 
 ### 🧾 Evidence
-![Business Communication Screenshot](/doc/BusinessCommunication.png)
+![Business Communication Screenshot](https://github.com/TrynaGITEducated/TrynaGITEducated/blob/main/bc1.png)
 
 ### 💭 Reflection (STAR)
 **S:** As part of the qualification learning material aimed at enhancing communicatio, I enrolled into a bussiness communication course
