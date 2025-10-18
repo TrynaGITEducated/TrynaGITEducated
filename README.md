@@ -55,7 +55,7 @@
 
 ### 🧾 Evidence
 ![Mock Interview Screenshot]
-[▶️ Watch Mock Video👉](https://github.com/wil-it2025/cv-tutorial-TrynaGITEducated)
+[▶️ Watch Mock Video👉](https://github.com/TrynaGITEducated/TrynaGITEducated/blob/main/interview%20video%20.mp4)
 
 ### 💭 Reflection (STAR)
 **S:** A simulation of a real-world job interview was conducted earlier on in the academic year as part of an assessment. This simukation was done as a mock-interview to exhibit and display the Interview Skills learnt.
