@@ -26,6 +26,7 @@
 
 ### 🧾 Evidence
 ![Business Communication Screenshot](https://github.com/TrynaGITEducated/TrynaGITEducated/blob/main/bc1.png)
+(https://github.com/TrynaGITEducated/TrynaGITEducated/blob/main/bc2.png)
 
 ### 💭 Reflection (STAR)
 **S:** As part of the qualification learning material aimed at enhancing communicatio, I enrolled into a bussiness communication course
