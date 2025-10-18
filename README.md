@@ -21,7 +21,83 @@
 [![](https://visitcount.itsvg.in/api?id=TrynaGITEducated&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📘 1. Career Counselling
+
+## 📢 1. BUSINESS COMMUNICATION
+
+### 🧾 Evidence
+![Business Communication Screenshot](/doc/BusinessCommunication.png)
+
+### 💭 Reflection (STAR)
+**S:** As part of the qualification learning material aimed at enhancing communicatio, I enrolled into a bussiness communication course
+
+**T:** The aim was to leverage the information and knowlegde provided by the course and effectively incorporating it into my current skillset. 
+
+**A:** Active engagement and periodic implementation of the course material was essential. Special attention was given to tests and questions asked about the various topics as well as the completion thereof.
+
+**R:** This module, in particular was important since there a concious deficiencies in my ability to effectively communicate. 
+
+## 💬 2. INTERVIEW SKILLS
+
+### 🧾 Evidence
+![Interview Skills Screenshot](/doc/InterviewSkills.png)
+
+### 💭 Reflection (STAR)
+**S:**  As part of the module course material; aimed at interview preparation, I enrolled in the Interview skills course.
+
+**T:**  The target was to gain knowledge on key interviewing priciples as part of real-world interview preperation by doing a mock interview.
+
+**A:** I studied the course material thoroughly, focusing on the purpose of interviews, types of questions, and effective communication strategies. I completed the quiz with full attention to detail, applying both theoretical understanding and practical insight.   
+
+**R:** In conjunction with the business communication knowledge, i gained a keen understanding on interviewing as demostrated by the mock interview and the score achieved in the questionaires.
+
+## 🎙️ 3. MOCK INTERVIEW
+
+### 🧾 Evidence
+![Mock Interview Screenshot](/doc/BusinessC2.png)
+[▶️ Watch Mock Video](https://github.com/JA-Karoles222008237/Digital-Portfolio-PRP3/raw/main/doc/Mock%20video%20222008237.mp4)
+
+### 💭 Reflection (STAR)
+**S:** A simulation of a real-world job interview was conducted earlier on in the academic year as part of an assessment. This simukation was done as a mock-interview to exhibit and display the Interview Skills learnt.
+
+**T:** The aim was to implement key topics learnt in the Interview Skills course and conduct an interview once-off to get a real-world feel of an actual interview.
+
+**A:** A batch of questions most prevalent in an actial interview was selected and I attempted to answer them in the least amount of takes.  
+
+**R:** A big fear of job applications were the interviewing stage. With the creation of the mock interview, I was able to gain more confidence in not just conducting an interview, but applying for jobs.
+
+## 🤝 4. PROFESSIONAL NETWORKING
+
+### 🧾 Evidence
+![PROFESSIONAL NETWORKING Screenshot](/doc/ProfessionalNetworking.png)
+
+### 💭 Reflection (STAR)
+**S:** As part of the module course work, an inportant topic was networking
+
+**T:** The aim is to effectively network and leverage the knowledge of people more skilled. 
+
+**A:**I recently joined comminities such as tech groups and followed experts on platforms such as LinkedIn.
+
+**R:** Being able to talk to individuls in the position I strive to be in, is invaluable. Various job advertisments and refferals recieved was as a result of these networks.
+
+## 🏢 5. WORKPLACE ETIQUETTE
+
+### 🧾 Evidence
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img src="/doc/Workplace.png" alt="Workplace Etiquette Screenshot" width="450"/>
+  <img src="/doc/Code.png" alt="Code of Conduct Screenshot" width="450"/>
+</div>
+
+### 💭 Reflection (STAR)
+**S:** As part of the course material, we were required to learn and apply appropriate workplace etiquette. I am currently an intern sofware developer at a company and learnng good workplace etiquette.
+
+**T:** The aim was to learn and implement proper workplace etiquette in the current workplace environment.
+
+**A:** Upom course completion, I gained more detailed understanding essential workplace priciples; attenting meetings, esculating problems,,workplace culture and policies and effective communication. The current internship Im am doing, is the perfect environment to implement the topics learnt. 
+   
+**R:** An immediate integration of the knowlegde and application in the workplace proved to be benefitial.
+---
+
+## 📘 6. Career Counselling
 
 ### 🧾 Evidence
 - Participated/participating in the Huawei ICT Competition 
@@ -40,12 +116,12 @@
 
 ---
 
-## 🧠 2. Skills and Interests
+## 🧠 7. Skills and Interests
 <h4>💻Software projects</h4>
 <h5>Just a <a href="https://github.com/TrynaGITEducated/my-portfolio">Website portfolio</a> I designed and developed</h5> 
 <h5>A project i am working on called <a href="https://github.com/TrynaGITEducated/Preparrot">Preparrot</a>...still a work-in progress</h5> 
 <h5>A group project, <a href="https://github.com/Siyabulelamg/PRT3-AA2">QuickBite</a> as part of the Applications Development Project 3 module</h5> 
-<h5>Amother group project which is a <a href="https://github.com/TrynaGITEducated/EmployeeManagementSystem">Employee Management System</a> as part of the Applications Development Practice 3 module using Java, Spring and a frontend framework</h5> 
+<h5>A personal project called <a href="https://github.com/TrynaGITEducated/shopReme_dev">Shzapp</a> a shopping assistant application built with React-Native</h5> 
 
 
 ### 🧾 Evidence
@@ -74,7 +150,7 @@ Upon reflection, I could conclude by claiming that I have improve, even if sligh
 
 ---
 
-## 🧬 3. Personality Assessment
+## 🧬 8. Personality Assessment
 
 ### 🧾 Evidence
 - I was elected Team Lead/Project Manager for a group project
@@ -88,7 +164,7 @@ Upon reflection, I could conclude by claiming that I have improve, even if sligh
 
 ---
 
-## 📄 4. Create a CV
+## 📄 9. Create a CV
 
 ### 🧾 Evidence
 - Composed a professional CV with guidance from facilitators
@@ -106,7 +182,7 @@ Upon reflection, I could conclude by claiming that I have improve, even if sligh
 
 - 📧 Email: 221447628@mycput.ac.za 
 - 💼 LinkedIn: <h6>This is my ✨<a href="https://www.linkedin.com/in/hadley-booysen-515a972b9/">LinkedIn</a> profile✨</h6>
-- 🕸️ Profile : <h6>If you have time👉, please check out my Web <a href="https://trynagiteducated.github.io/my-portfolio/]">Profile</a></h6>
+- 🕸️ Profile : <h6>If you have time👉, please check out my <a href="https://trynagiteducated.github.io/my-portfolio/]">Profile</a></h6>
 ---
 
 > This digital portfolio was created as part of the Work Readiness Training assessment and includes both artefacts and reflective insights aligned with the STAR technique.
