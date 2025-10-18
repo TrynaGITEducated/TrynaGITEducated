@@ -69,7 +69,7 @@
 ## 🤝 4. PROFESSIONAL NETWORKING
 
 ### 🧾 Evidence
-![PROFESSIONAL NETWORKING Screenshot](/doc/ProfessionalNetworking.png)
+![PROFESSIONAL NETWORKING Screenshot](https://github.com/TrynaGITEducated/TrynaGITEducated/blob/main/pn1.png)
 
 ### 💭 Reflection (STAR)
 **S:** As part of the module course work, an inportant topic was networking
