@@ -1,4 +1,4 @@
-<h1>💫 Hi, I'm Hadley!👋 <br/><a href="https://github.com/TrynaGITEducated/TrynaGITEducated">Programmer</a>, <a href="https://www.linkedin.com/in/hadley-booysen-515a972b9/">Intern Software Developer</a></h1>
+<h1>💫 Hi, I'm Hadley!👋 <br/><a href="https://github.com/TrynaGITEducated/TrynaGITEducated">Resident tech enthusiast</a>, <a href="https://www.linkedin.com/in/hadley-booysen-515a972b9/">Software Developer</a></h1>
 
 
 <h2>💼 Welcome to my Work Readiness Digital Portfolio</h2>
